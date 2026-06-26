@@ -136,23 +136,6 @@ QLoRA required significantly less GPU memory but achieved slightly lower respons
 
 ---
 
-# Repository Structure
-
-```
-.
-├── Dataset Cleaning Script
-├── Google Colab Notebook
-├── Fine-Tuning Experiments
-│   ├── Full Fine-Tuning
-│   ├── SFTTrainer
-│   ├── LoRA
-│   └── QLoRA
-├── README.md
-└── requirements.txt
-```
-
----
-
 # Running the Notebook
 
 The notebook contains all four experiments.
